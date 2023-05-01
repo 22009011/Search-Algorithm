@@ -113,14 +113,15 @@ else:
 
 ```
 ## Output :
-![image](https://user-images.githubusercontent.com/118343461/235286818-2d63511f-26af-4b28-81e4-9ed22e1ec731.png)
+![Screenshot 2023-05-01 at 10-59-44 Exp 3b-CR-Linear Search and Binary Search Attempt review](https://user-images.githubusercontent.com/118343461/235411524-c0dfe81e-70c6-4100-835e-e0e980dae794.png)
 
 ## output :
-![image](https://user-images.githubusercontent.com/118343461/235286895-f1c87fc0-f361-4044-b5cb-01ef2b4fd646.png)
+![Screenshot 2023-05-01 at 11-00-27 Exp 3b-CR-Linear Search and Binary Search Attempt review](https://user-images.githubusercontent.com/118343461/235411593-7cc1822a-b78c-45b7-a22a-13cbb219984c.png)
 
-## output:
-![image](https://user-images.githubusercontent.com/118343461/235286939-2f3d7734-827e-4900-b9d3-d108ed825c6c.png)
 
+## output :
+
+![Screenshot 2023-05-01 at 11-03-22 Exp 3b-CR-Linear Search and Binary Search Attempt review](https://user-images.githubusercontent.com/118343461/235411667-6f57cb94-e639-4873-bee7-8011294bc756.png)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
